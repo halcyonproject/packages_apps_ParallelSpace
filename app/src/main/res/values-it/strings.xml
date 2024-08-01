@@ -1,29 +1,29 @@
 <resources>
-    <string name="app_name">Parallel Space</string>
-    <string name="app_summary">Permetti di eseguire più istanze della stessa applicazione in parallelo.</string>
-    <string name="intro">Esecuzione di più istanze della stessa applicazione in spazi paralleli separati</string>
+    <string name="app_name">Spazio Parallelo</string>
+    <string name="app_summary">Permette di eseguire più istanze della stessa applicazione in parallelo.</string>
+    <string name="intro">Esegui istanze multiple della stessa applicazione in spazi paralleli separati</string>
 
-    <string name="category_spaces">Spaces</string>
-    <string name="no_space">Nessuno Space disponibile</string>
-    <string name="space">Space</string>
+    <string name="category_spaces">Spazi</string>
+    <string name="no_space">Nessuno Spazio disponibile</string>
+    <string name="space">Spazio</string>
     <string name="please_wait">Attendere Prego</string>
     <string name="invalid_user_id">Utente non valido</string>
-    <string name="add_space">Aggiungi Space</string>
-    <string name="remove_space">Rimuovi Space</string>
+    <string name="add_space">Aggiungi Spazio</string>
+    <string name="remove_space">Rimuovi Spazio</string>
     <string name="cancel">Annulla</string>
 
-    <string name="new_space_dialog_title">Crea nuovo space</string>
-    <string name="new_space_dialog_message">Inserisci un nome per il nuovo space</string>
+    <string name="new_space_dialog_title">Crea nuovo spazio</string>
+    <string name="new_space_dialog_message">Inserisci un nome per il nuovo spazio</string>
     <string name="new_space_dialog_positive">Crea</string>
-    <string name="new_space_progress_message">Creazione space...</string>
+    <string name="new_space_progress_message">Creazione spazio...</string>
 
-    <string name="remove_space_dialog_title">Rimuovi space</string>
-    <string name="remove_space_dialog_message">Sei sicuro di voler rimuovere questo space?</string>
+    <string name="remove_space_dialog_title">Rimuovi spazio</string>
+    <string name="remove_space_dialog_message">Sei sicuro di voler rimuovere questo spazio?</string>
     <string name="remove_space_dialog_positive">Rimuovi</string>
-    <string name="remove_space_progress_message">Rimozione space...</string>
+    <string name="remove_space_progress_message">Rimozione spazio...</string>
 
-    <string name="space_name_empty">Il nome dello Space non può essere vuoto</string>
-    <string name="space_limit_reached">Hai raggiunto il numero massimo di space</string>
+    <string name="space_name_empty">Il nome dello Spazio non può essere vuoto</string>
+    <string name="space_limit_reached">Hai raggiunto il numero massimo di spazi</string>
 
     <string name="default_cloned_summary">Questa app viene sempre clonata</string>
 </resources>
